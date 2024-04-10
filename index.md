@@ -55,9 +55,9 @@ Listening to music
 
 ### List of Books to Read
 
--[x] The Fountainhead 
--[ ] Thus Spoke Zarathustra 
--[ ] Crime and Punishment 
+- [x] The Fountainhead 
+- [ ] Thus Spoke Zarathustra 
+- [ ] Crime and Punishment 
 
 
 
