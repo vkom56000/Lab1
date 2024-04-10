@@ -3,9 +3,9 @@ Hi, my name is venkata and I am a third year ***CS*** major here at UCSD.
 
 
 ## Interests 
-Watching movies
-Playing basketball 
-Listening to music
+- Watching movies
+- Playing basketball 
+- Listening to music
 
 ## Favorite Quote 
 <a name = "Favorite-Quote"></a>
@@ -40,7 +40,7 @@ Listening to music
 
 [Jump to Favorite Quote](#Favorite-Quote)
 
-[link to another file](README.md)
+[link to another file](README)
 
 
 ### Favorite Foods
