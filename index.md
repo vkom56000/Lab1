@@ -2,7 +2,7 @@
 Hi, my name is venkata and I am a third year ***CS*** major here at UCSD.
 
 
-## interests 
+## Interests 
 Watching movies
 Playing basketball 
 Listening to music
@@ -55,9 +55,9 @@ Listening to music
 
 ### List of Books to Read
 
-- [x] The Fountainhead 
-- [ ] Thus Spoke Zarathustra 
-- [ ] Crime and Punishment 
+- [x] *The Fountainhead*
+- [ ] *Thus Spoke Zarathustra*
+- [ ] *Crime and Punishment* 
 
 
 
