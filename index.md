@@ -40,7 +40,7 @@ Hi, my name is venkata and I am a third year ***CS*** major here at UCSD.
 
 [Jump to Favorite Quote](#Favorite-Quote)
 
-[link to another file](README)
+[link to another file](README.md)
 
 
 ### Favorite Foods
