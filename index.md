@@ -57,7 +57,10 @@ Listening to music
 
 - [x] *The Fountainhead*
 - [ ] *Thus Spoke Zarathustra*
-- [ ] *Crime and Punishment* 
+- [ ] *Crime and Punishment*
+
+### Picture of a Dog
+![dog](dog.jpg)
 
 
 
