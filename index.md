@@ -38,7 +38,7 @@ Listening to music
 ## Links
 [NBA Standings](https://www.google.com/search?q=nba+standings&rlz=1C1UEAD_enUS1010US1010&oq=nba+sta&gs_lcrp=EgZjaHJvbWUqDAgAECMYJxiABBiKBTIMCAAQIxgnGIAEGIoFMgYIARBFGDkyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyDQgEEAAYgwEYsQMYgAQyCggFEAAYsQMYgAQyDQgGEAAYgwEYsQMYgAQyDQgHEAAYgwEYsQMYgAQyBwgIEAAYgAQyDQgJEAAYgwEYsQMYgASoAgCwAgA&sourceid=chrome&ie=UTF-8#sie=lg;/g/11snv1vp6v;3;/m/05jvx;st;fp;1;;;)
 
-[jump to Favorite Quote](#Favorite-Quote)
+[Jump to Favorite Quote](#Favorite-Quote)
 
 
 
