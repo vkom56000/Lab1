@@ -43,5 +43,22 @@ Listening to music
 [link to another file](README.md)
 
 
+### Favorite Foods
+1. Chicken Sandwich
+2. Pizza
+3. Mac and Cheese
+
+### Favorite Movies 
+- Fight Club
+- Eternal Sunshine of the Spotless Mind
+- Inception
+
+### List of Books to Read
+
+-[x] The Fountainhead 
+-[] Thus Spoke Zarathustra 
+-[] Crime and Punishment 
+
+
 
 
